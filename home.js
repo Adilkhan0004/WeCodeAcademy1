@@ -106,4 +106,9 @@
 // a=a+b
 // }
 // console.log("odd "+a)
-
+ 
+ 
+ 
+ 
+ let x= 1;
+ console.log(x);
