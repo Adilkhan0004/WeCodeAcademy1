@@ -67,7 +67,7 @@
 //     console.log(i) table of three
 // }
  
-// for(let i=4;i<=40;i=i+4)// table of 4
+// for(let i=4;i<=40;i=i+4)// 
 // console.log(i)
 
 // for(let i=6;i<=60;i++)
